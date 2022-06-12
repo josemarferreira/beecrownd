@@ -1,0 +1,1 @@
+SELECT name FROM CUSTOMERS WHERE UPPER(state) = 'RS';
